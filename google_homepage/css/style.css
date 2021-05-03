@@ -34,6 +34,7 @@
     margin: 0 auto;
     margin-top: -77px;
     width: 582px;
+    border-radius: 25px;
   }
   
   .search-area:hover {
@@ -155,3 +156,4 @@
   .footerli a:hover {
     text-decoration: underline;
   }
+  
